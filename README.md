@@ -1,3 +1,5 @@
+# **This repository might be out of date, please go to http://github.com/PyProphet/pyprophet instead **
+
 pyprophet
 =========
 
